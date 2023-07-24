@@ -20,18 +20,13 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 -->
 こんにちは Hello I'm Tonkaew, a Computer Science student @KMUTNB with a passion for solving problems using technology. I love to explore new technologies, work on exciting projects, and contribute to open-source communities.
 
-<br>
+- 🔭 I’m currently working on [Wilar](https://wilar.in.th), [tkResume](https://github.com/tonkaew131/tkResume).
 
-- 🔭 I’m currently working on `...` 😉
+- 👯 I’m looking forward to collaborate on `Full-stack Development`.
 
-- 👯 I’m looking forward to collaborate on `...`.
+- 🌱 Learning about `Sveltekit`.
 
-- 🌱 Learning about `...`
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-<!--
-<br>
+- 💬 Ask me about anything, I am happy to help! 😉
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
@@ -42,33 +37,34 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <p align="center">
 
 <p align="center">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/alamin20/">
- 
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="https://twitter.com/">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
-
- <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
- </a>
-
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
- </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="mailto:alamin.contact24@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
+    <a href="tk.wilar.in.th">
+        <img border="0" alt="Tonkaew's Portfolio" src="https://img.icons8.com/?size=1x&id=63807&format=png">
+    </a>
+    <a href="https://www.linkedin.com/in/athicha-leksansern/">
+        <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/?size=1x&id=13930&format=png"/>
+    </a>
+    <!--
+    <a href="https://twitter.com/">
+        <img border="0" alt="" src="https://img.icons8.com/nolan/40/twitter.png"/>
+    </a>
+    -->
+    <a href="https://www.instagram.com/tonkaew131">
+        <img border="0" alt="Tonakew's IG" src="https://img.icons8.com/?size=1x&id=32323&format=png"/>
+    </a>
+    <a href="https://www.facebook.com/nongtonkaew/">
+        <img border="0" alt="Tonakew's Facebook" src="https://img.icons8.com/?size=1x&id=118497&format=png"/>
+    </a>
+    <!--
+    <a href="">
+        <img border="0" alt="" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+    </a>
+    -->
+    <a href="https://discord.com/invite/yw9bNwR">
+    <img border="0" alt="tonkaew" src="https://img.icons8.com/?size=1x&id=30998&format=png"/>
+    </a>
+    <a href="mailto:nongtonkaew@gmail.com">
+        <img border="0" alt="Tonkaew's Mail" src="https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png"/>
+    </a>
 </p>
 
 <br>
