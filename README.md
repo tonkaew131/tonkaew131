@@ -6,15 +6,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&color=F4BDF7&background=FFFFFF00&center=true&width=435&lines=%F0%9F%92%BB+Full-stack+Dev;%E2%9C%A8+Stargazer;%F0%9F%8E%B6+Music+Lover)](https://git.io/typing-svg)
 </div>
+
+<!--
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
+  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</p>
+-->
 
 ## <img src="https://media.tenor.com/WUiSOIH979oAAAAi/sleep-sleepy-head.gif" width="30">  <b>About Me</b> ![](https://komarev.com/ghpvc/?username=tonkaew131&color=6a76f7)
 
-
-<!---
+<!--
 I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+-->
+こんにちは Hello I'm Tonkaew, a Computer Science student @KMUTNB with a passion to solving problem using technology
 
 <br>
 
@@ -26,7 +30,7 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
-
+<!--
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
@@ -68,6 +72,8 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 </p>
 
 <br>
+
+<!--
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
 <br>
@@ -132,9 +138,6 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </a>
 </p>
-
-
-
 
 ### 📋 Frontend Development
 
@@ -242,13 +245,6 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
   
 </p>
 
-
-
-
-
-
-
-
 ### 🎛️ Operating Systems
 
 <p align="left"> 
@@ -351,28 +347,20 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
 
 
+-->
 
 <br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonkaew131&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin2731&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<br>
-
-## <b>💪Quote || Fact</b>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tonkaew131&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
-
--->
 
 -----
 
