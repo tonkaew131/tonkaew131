@@ -37,7 +37,7 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <p align="center">
 
 <p align="center">
-    <a href="tk.wilar.in.th">
+    <a href="https://tk.wilar.in.th">
         <img border="0" alt="Tonkaew's Portfolio" src="https://img.icons8.com/?size=1x&id=63807&format=png">
     </a>
     <a href="https://www.linkedin.com/in/athicha-leksansern/">
@@ -100,24 +100,21 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 <br>
 
+-->
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📋 Programming languages
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+- Languages: <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
   </a> 
-
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
-
+<!--
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
   </a>
-
+-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
@@ -130,9 +127,14 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
   </a>
 
+  <a href="https://www.arduino.cc" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/Arduino-%23277BB4.svg?logo=arduino&logoColor=white">
+  </a>
+<!--
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </a>
+-->
 </p>
 
 ### 📋 Frontend Development
@@ -341,9 +343,6 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-
-
--->
 
 <br> 
 
