@@ -15,9 +15,6 @@
 
 ## <img src="https://media.tenor.com/WUiSOIH979oAAAAi/sleep-sleepy-head.gif" width="30">  <b>About Me</b> ![](https://komarev.com/ghpvc/?username=tonkaew131&color=6a76f7)
 
-<!--
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
--->
 &nbsp;&nbsp;&nbsp;&nbsp;こんにちは Hello I'm Tonkaew, a Computer Science student @KMUTNB based on <b>Nonthaburi, Thailand</b> with a passion for solving problems using technology. I love to explore new technologies, work on exciting projects, and contribute to open-source communities.
 
 - 🔭 I’m currently working on [Wilar](https://wilar.in.th), [tkResume](https://github.com/tonkaew131/tkResume).
@@ -43,22 +40,12 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
     <a href="https://www.linkedin.com/in/athicha-leksansern/">
         <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/?size=1x&id=13930&format=png"/>
     </a>
-    <!--
-    <a href="https://twitter.com/">
-        <img border="0" alt="" src="https://img.icons8.com/nolan/40/twitter.png"/>
-    </a>
-    -->
     <a href="https://www.instagram.com/tonkaew131">
         <img border="0" alt="Tonakew's IG" src="https://img.icons8.com/?size=1x&id=32323&format=png"/>
     </a>
     <a href="https://www.facebook.com/nongtonkaew/">
         <img border="0" alt="Tonakew's Facebook" src="https://img.icons8.com/?size=1x&id=118497&format=png"/>
     </a>
-    <!--
-    <a href="">
-        <img border="0" alt="" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
-    </a>
-    -->
     <a href="https://discord.com/invite/yw9bNwR">
     <img border="0" alt="tonkaew" src="https://img.icons8.com/?size=1x&id=30998&format=png"/>
     </a>
