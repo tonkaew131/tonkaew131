@@ -145,11 +145,14 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
    <img alt="Next.js" src="https://img.shields.io/badge/Next%2Ejs-%230000.svg?logo=nextdotjs&logoColor=white">
 </a>
 <a href="https://react.dev" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%2362dafd.svg?logo=react&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React-%2362dafd.svg?logo=react&logoColor=black"/>
 </a>
 <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 </a>
+<a href="https://www.mysql.com/" target="_blank"> 
+   <img alt="MySQL" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white">
+</a>   
 <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
 </a>   
