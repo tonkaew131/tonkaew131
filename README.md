@@ -18,15 +18,15 @@
 <!--
 I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 -->
-こんにちは Hello I'm Tonkaew, a Computer Science student @KMUTNB with a passion to solving problem using technology
+こんにちは Hello I'm Tonkaew, a Computer Science student @KMUTNB with a passion to solving problem using technology. I love to explore new technologies, work on exciting projects, and contribute to open-source communities.
 
 <br>
 
-- 🔭 I’m currently working on something cool 😉
+- 🔭 I’m currently working on `...` 😉
 
-- 👯 I’m looking forward to collaborate on python projects.
+- 👯 I’m looking forward to collaborate on `...`.
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🌱 Learning about `...`
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
