@@ -154,28 +154,32 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
    <img alt="MySQL" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white">
 </a>   
 <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23e06f14.svg?logo=mysql&logoColor=white">
 </a>   
 </p>
 
 <p align="left">
-  <a href="https://www.centos.org/" target="_blank"> 
+<a href="https://www.centos.org/" target="_blank"> 
    <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
-  </a>   
-  <a href="https://www.debian.org/" target="_blank">
+</a>   
+<a href="https://www.debian.org/" target="_blank">
     <img alt="Raspbian" src="https://img.shields.io/badge/Raspbian-D70A53?logo=raspberrypi&logoColor=white">
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
+</a> 
+<a href="https://code.visualstudio.com/" target="_blank"> 
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>   
- <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+</a>   
+<a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  </a>
+</a>
 <a href="https://www.selenium.dev" target="_blank">
     <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?logo=selenium&logoColor=white">
 </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white">
+    </a>
 </p>
 
 <br>
