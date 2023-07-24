@@ -88,7 +88,7 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
 </a>
 <a href="https://www.arduino.cc" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/Arduino-%23277BB4.svg?logo=arduino&logoColor=white">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23277BB4.svg?logo=arduino&logoColor=white">
 </a>
 <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
@@ -103,12 +103,12 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
    <img alt="HTML" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?logo=svelte&logoColor=white">
 </a>
 <a href="https://expressjs.com" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white">
+   <img alt="Express.js" src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white">
 </a>
 <a href="https://www.prisma.io" target="_blank"> 
    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-%2302364e.svg?logo=prisma&logoColor=white">
 </a>
-<a href="https://www.prisma.io" target="_blank"> 
+<a href="https://nextjs.org" target="_blank"> 
    <img alt="Next.js" src="https://img.shields.io/badge/Next%2Ejs-%230000.svg?logo=nextdotjs&logoColor=white">
 </a>
 <a href="https://react.dev" target="_blank"> 
@@ -117,8 +117,8 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white">
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> 
+   <img alt="Python Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white">
 </a>   
 <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23e06f14.svg?logo=mysql&logoColor=white">
@@ -148,6 +148,17 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
     <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white">
     </a>
 </p>
+
+<br>
+
+## <img src="https://media.tenor.com/jSooB458wqUAAAAi/write-noted.gif" width='25'> <b>Projects</b>
+
+- [tkResume](https://github.com/tonkaew131/tkResume): Ready to edit resume using `SvelteKit`
+- [Wilar](https://www.wilar.in.th): Cat Farm Management system using `SvelteKit`
+- [My Portfolio](https://tk.wilar.in.th): Built on `Next.js` (Currently building [New One](https://tkw-web-dev.vercel.app))
+- [tinyTCAS](https://tiny-tcas.vercel.app): Processes and view TCAS admission data.
+- [tinyClock](https://github.com/tonkaew131/tinyClock): Multi utilities desktop gadget devices based on 3.5 inch TFT LCD
+- [GuaranTree](https://github.com/tonkaew131/GuaranTree): YWC19 Hackaton
 
 <br>
 
