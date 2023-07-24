@@ -193,8 +193,6 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
-
 -----
 
 Credits: [Alamin](https://github.com/alamin2731)
