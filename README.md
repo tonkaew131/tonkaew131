@@ -17,7 +17,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;こんにちは Hello I'm Tonkaew, a Computer Science student @KMUTNB based on <b>Nonthaburi, Thailand</b> with a passion for solving problems using technology. I love to explore new technologies, work on exciting projects, and contribute to open-source communities.
 
-- 🔭 I’m currently working on [Wilar](https://wilar.in.th), [tkResume](https://github.com/tonkaew131/tkResume).
+- 🔭 I’m currently working on [LearnArai](https://github.com/learn-arai/learn-arai).
 
 - 👯 I’m looking forward to collaborate on `Full-stack Development`.
 
@@ -146,6 +146,7 @@
 - [tinyTCAS](https://tiny-tcas.vercel.app): Processes and view TCAS admission data.
 - [tinyClock](https://github.com/tonkaew131/tinyClock): Multi utilities desktop gadget devices based on 3.5 inch TFT LCD
 - [GuaranTree](https://github.com/tonkaew131/GuaranTree): YWC19 Hackaton
+- [LearnArai](https://github.com/learn-arai/learn-arai): Classroom Management System with Grader
 
 <br>
 
