@@ -21,7 +21,7 @@
 
 - 👯 I’m looking forward to collaborate on `Full-stack Development`.
 
-- 🌱 Learning about `Sveltekit`.
+- 🌱 Learning about `Elysia`, `Nest.js`, `PostgreSQL`.
 
 - 💬 Ask me about anything, I am happy to help! 😉
 
